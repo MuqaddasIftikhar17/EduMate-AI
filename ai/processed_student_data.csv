@@ -1,0 +1,501 @@
+student_id,name,course,learning_style,communication,personality,gpa,combination,performance_level
+S0001,hassan qureshi,data science,kinesthetic,average,ambivert,2.84,data science - kinesthetic - ambivert - average,Below Average
+S0002,usman rana,artificial intelligence,auditory,strong,introvert,2.17,artificial intelligence - auditory - introvert - strong,Low
+S0003,ahmad iftikhar,cyber security,reading/writing,average,introvert,2.59,cyber security - reading/writing - introvert - average,Below Average
+S0004,hassan iftikhar,information technology,reading/writing,weak,extrovert,3.44,information technology - reading/writing - extrovert - weak,Above Average
+S0005,sana butt,software engineering,reading/writing,strong,introvert,2.85,software engineering - reading/writing - introvert - strong,Below Average
+S0006,muneeb chaudhry,computer networks,kinesthetic,strong,extrovert,2.77,computer networks - kinesthetic - extrovert - strong,Below Average
+S0007,hassan malik,computer networks,auditory,average,introvert,2.22,computer networks - auditory - introvert - average,Low
+S0008,hassan butt,information technology,kinesthetic,average,extrovert,2.76,information technology - kinesthetic - extrovert - average,Below Average
+S0009,ahmad rana,deep learning,visual,average,introvert,2.13,deep learning - visual - introvert - average,Low
+S0010,fatima rana,software engineering,kinesthetic,strong,ambivert,3.35,software engineering - kinesthetic - ambivert - strong,Above Average
+S0011,ali khan,deep learning,reading/writing,strong,ambivert,2.26,deep learning - reading/writing - ambivert - strong,Low
+S0012,hiba chaudhry,information technology,visual,strong,extrovert,3.25,information technology - visual - extrovert - strong,Above Average
+S0013,zara ashraf,artificial intelligence,auditory,weak,introvert,2.96,artificial intelligence - auditory - introvert - weak,Below Average
+S0014,hiba siddiqui,software engineering,visual,strong,introvert,3.15,software engineering - visual - introvert - strong,Above Average
+S0015,hassan siddiqui,information technology,kinesthetic,weak,ambivert,3.71,information technology - kinesthetic - ambivert - weak,High
+S0016,muneeb iftikhar,machine learning,reading/writing,weak,ambivert,3.22,machine learning - reading/writing - ambivert - weak,Above Average
+S0017,ayesha qureshi,machine learning,auditory,weak,ambivert,2.71,machine learning - auditory - ambivert - weak,Below Average
+S0018,jawad malik,computer networks,auditory,average,ambivert,2.31,computer networks - auditory - ambivert - average,Low
+S0019,ali ashraf,cloud computing,auditory,weak,extrovert,3.69,cloud computing - auditory - extrovert - weak,High
+S0020,zara rana,artificial intelligence,reading/writing,average,ambivert,3.33,artificial intelligence - reading/writing - ambivert - average,Above Average
+S0021,zara sheikh,artificial intelligence,auditory,weak,ambivert,3.48,artificial intelligence - auditory - ambivert - weak,Above Average
+S0022,ayesha siddiqui,information technology,reading/writing,weak,ambivert,3.13,information technology - reading/writing - ambivert - weak,Above Average
+S0023,muneeb malik,cyber security,auditory,weak,extrovert,2.71,cyber security - auditory - extrovert - weak,Below Average
+S0024,ayesha siddiqui,computer networks,reading/writing,weak,extrovert,2.23,computer networks - reading/writing - extrovert - weak,Low
+S0025,muneeb sheikh,deep learning,visual,weak,introvert,2.28,deep learning - visual - introvert - weak,Low
+S0026,usman malik,cloud computing,visual,strong,extrovert,2.49,cloud computing - visual - extrovert - strong,Low
+S0027,usman chaudhry,artificial intelligence,kinesthetic,average,extrovert,2.53,artificial intelligence - kinesthetic - extrovert - average,Below Average
+S0028,jawad khan,artificial intelligence,reading/writing,average,extrovert,2.72,artificial intelligence - reading/writing - extrovert - average,Below Average
+S0029,sana rana,artificial intelligence,reading/writing,average,extrovert,3.07,artificial intelligence - reading/writing - extrovert - average,Above Average
+S0030,zara ashraf,artificial intelligence,auditory,weak,extrovert,2.46,artificial intelligence - auditory - extrovert - weak,Low
+S0031,hassan siddiqui,artificial intelligence,kinesthetic,weak,introvert,2.61,artificial intelligence - kinesthetic - introvert - weak,Below Average
+S0032,muneeb qureshi,cloud computing,reading/writing,average,introvert,2.84,cloud computing - reading/writing - introvert - average,Below Average
+S0033,fatima malik,deep learning,auditory,strong,ambivert,3.4,deep learning - auditory - ambivert - strong,Above Average
+S0034,ayesha ashraf,data science,auditory,weak,extrovert,3.43,data science - auditory - extrovert - weak,Above Average
+S0035,maryam butt,machine learning,reading/writing,strong,introvert,3.95,machine learning - reading/writing - introvert - strong,High
+S0036,hassan iftikhar,machine learning,reading/writing,average,extrovert,2.49,machine learning - reading/writing - extrovert - average,Low
+S0037,jawad iftikhar,data science,auditory,strong,extrovert,3.84,data science - auditory - extrovert - strong,High
+S0038,jawad qureshi,data science,kinesthetic,average,introvert,2.9,data science - kinesthetic - introvert - average,Below Average
+S0039,hiba sheikh,software engineering,visual,average,extrovert,3.83,software engineering - visual - extrovert - average,High
+S0040,ahmad malik,information technology,reading/writing,weak,ambivert,2.96,information technology - reading/writing - ambivert - weak,Below Average
+S0041,hassan siddiqui,computer networks,kinesthetic,average,ambivert,2.69,computer networks - kinesthetic - ambivert - average,Below Average
+S0042,bilal sheikh,cloud computing,visual,strong,introvert,3.23,cloud computing - visual - introvert - strong,Above Average
+S0043,ayesha ashraf,machine learning,visual,strong,extrovert,3.08,machine learning - visual - extrovert - strong,Above Average
+S0044,bilal butt,deep learning,auditory,strong,ambivert,2.95,deep learning - auditory - ambivert - strong,Below Average
+S0045,jawad rana,deep learning,reading/writing,weak,ambivert,3.85,deep learning - reading/writing - ambivert - weak,High
+S0046,usman malik,software engineering,visual,strong,extrovert,2.64,software engineering - visual - extrovert - strong,Below Average
+S0047,zara butt,machine learning,auditory,strong,ambivert,3.3,machine learning - auditory - ambivert - strong,Above Average
+S0048,maryam siddiqui,software engineering,auditory,strong,ambivert,2.22,software engineering - auditory - ambivert - strong,Low
+S0049,hamza rana,software engineering,kinesthetic,strong,extrovert,3.22,software engineering - kinesthetic - extrovert - strong,Above Average
+S0050,maryam butt,machine learning,kinesthetic,average,introvert,2.28,machine learning - kinesthetic - introvert - average,Low
+S0051,bilal malik,computer networks,visual,weak,introvert,2.76,computer networks - visual - introvert - weak,Below Average
+S0052,muneeb khan,data science,visual,average,ambivert,3.76,data science - visual - ambivert - average,High
+S0053,jawad ashraf,computer networks,auditory,strong,introvert,3.96,computer networks - auditory - introvert - strong,High
+S0054,ayesha khan,computer networks,auditory,weak,introvert,3.39,computer networks - auditory - introvert - weak,Above Average
+S0055,jawad ashraf,computer networks,reading/writing,average,ambivert,3.05,computer networks - reading/writing - ambivert - average,Above Average
+S0056,hiba sheikh,information technology,visual,weak,introvert,3.38,information technology - visual - introvert - weak,Above Average
+S0057,ahmad sheikh,deep learning,visual,strong,ambivert,3.7,deep learning - visual - ambivert - strong,High
+S0058,hamza sheikh,deep learning,auditory,average,introvert,3.23,deep learning - auditory - introvert - average,Above Average
+S0059,sana sheikh,computer networks,auditory,weak,extrovert,2.71,computer networks - auditory - extrovert - weak,Below Average
+S0060,fatima malik,software engineering,visual,weak,extrovert,2.91,software engineering - visual - extrovert - weak,Below Average
+S0061,maryam iftikhar,machine learning,reading/writing,average,introvert,2.83,machine learning - reading/writing - introvert - average,Below Average
+S0062,ahmad butt,deep learning,visual,average,introvert,3.04,deep learning - visual - introvert - average,Above Average
+S0063,ahmad sheikh,deep learning,auditory,average,extrovert,2.97,deep learning - auditory - extrovert - average,Below Average
+S0064,sana khan,artificial intelligence,visual,average,introvert,2.64,artificial intelligence - visual - introvert - average,Below Average
+S0065,bilal malik,deep learning,visual,average,ambivert,2.63,deep learning - visual - ambivert - average,Below Average
+S0066,fatima ashraf,machine learning,kinesthetic,weak,ambivert,2.31,machine learning - kinesthetic - ambivert - weak,Low
+S0067,muneeb rana,computer networks,kinesthetic,average,ambivert,3.52,computer networks - kinesthetic - ambivert - average,High
+S0068,ayesha iftikhar,machine learning,kinesthetic,average,extrovert,3.97,machine learning - kinesthetic - extrovert - average,High
+S0069,ali iftikhar,deep learning,auditory,weak,ambivert,2.29,deep learning - auditory - ambivert - weak,Low
+S0070,usman iftikhar,cloud computing,visual,weak,introvert,3.61,cloud computing - visual - introvert - weak,High
+S0071,usman khan,machine learning,reading/writing,weak,introvert,3.84,machine learning - reading/writing - introvert - weak,High
+S0072,hiba malik,cloud computing,kinesthetic,weak,introvert,3.12,cloud computing - kinesthetic - introvert - weak,Above Average
+S0073,bilal butt,computer networks,auditory,average,ambivert,3.43,computer networks - auditory - ambivert - average,Above Average
+S0074,hassan butt,software engineering,visual,average,introvert,2.29,software engineering - visual - introvert - average,Low
+S0075,zara iftikhar,computer networks,kinesthetic,strong,extrovert,3.75,computer networks - kinesthetic - extrovert - strong,High
+S0076,bilal malik,deep learning,reading/writing,weak,introvert,2.94,deep learning - reading/writing - introvert - weak,Below Average
+S0077,hamza malik,machine learning,kinesthetic,weak,ambivert,2.59,machine learning - kinesthetic - ambivert - weak,Below Average
+S0078,ayesha qureshi,cyber security,visual,strong,ambivert,3.53,cyber security - visual - ambivert - strong,High
+S0079,sana qureshi,computer networks,visual,weak,introvert,3.43,computer networks - visual - introvert - weak,Above Average
+S0080,fatima qureshi,cloud computing,visual,strong,extrovert,3.42,cloud computing - visual - extrovert - strong,Above Average
+S0081,muneeb sheikh,cyber security,kinesthetic,weak,introvert,2.02,cyber security - kinesthetic - introvert - weak,Low
+S0082,ayesha sheikh,data science,reading/writing,strong,ambivert,2.04,data science - reading/writing - ambivert - strong,Low
+S0083,ahmad chaudhry,information technology,kinesthetic,weak,extrovert,2.21,information technology - kinesthetic - extrovert - weak,Low
+S0084,ali khan,data science,visual,average,introvert,3.14,data science - visual - introvert - average,Above Average
+S0085,hassan rana,cloud computing,kinesthetic,strong,introvert,2.96,cloud computing - kinesthetic - introvert - strong,Below Average
+S0086,muneeb qureshi,machine learning,reading/writing,strong,introvert,3.28,machine learning - reading/writing - introvert - strong,Above Average
+S0087,usman ashraf,artificial intelligence,kinesthetic,weak,introvert,2.04,artificial intelligence - kinesthetic - introvert - weak,Low
+S0088,sana chaudhry,cyber security,visual,average,ambivert,2.29,cyber security - visual - ambivert - average,Low
+S0089,ahmad sheikh,deep learning,kinesthetic,average,introvert,3.33,deep learning - kinesthetic - introvert - average,Above Average
+S0090,hamza rana,computer networks,reading/writing,weak,extrovert,3.35,computer networks - reading/writing - extrovert - weak,Above Average
+S0091,hassan qureshi,deep learning,auditory,weak,introvert,3.93,deep learning - auditory - introvert - weak,High
+S0092,ali malik,information technology,auditory,strong,ambivert,3.15,information technology - auditory - ambivert - strong,Above Average
+S0093,hiba butt,computer networks,visual,strong,introvert,3.26,computer networks - visual - introvert - strong,Above Average
+S0094,ayesha malik,machine learning,auditory,weak,introvert,3.06,machine learning - auditory - introvert - weak,Above Average
+S0095,ahmad sheikh,artificial intelligence,auditory,strong,extrovert,2.96,artificial intelligence - auditory - extrovert - strong,Below Average
+S0096,hiba ashraf,artificial intelligence,kinesthetic,average,extrovert,3.43,artificial intelligence - kinesthetic - extrovert - average,Above Average
+S0097,zara sheikh,cloud computing,kinesthetic,weak,ambivert,2.39,cloud computing - kinesthetic - ambivert - weak,Low
+S0098,fatima khan,information technology,visual,weak,introvert,3.11,information technology - visual - introvert - weak,Above Average
+S0099,maryam sheikh,cloud computing,reading/writing,weak,extrovert,3.41,cloud computing - reading/writing - extrovert - weak,Above Average
+S0100,usman rana,information technology,reading/writing,strong,extrovert,2.72,information technology - reading/writing - extrovert - strong,Below Average
+S0101,hiba chaudhry,information technology,kinesthetic,average,extrovert,3.65,information technology - kinesthetic - extrovert - average,High
+S0102,bilal qureshi,software engineering,visual,weak,ambivert,2.58,software engineering - visual - ambivert - weak,Below Average
+S0103,zara chaudhry,cloud computing,visual,weak,ambivert,2.82,cloud computing - visual - ambivert - weak,Below Average
+S0104,muneeb butt,cloud computing,visual,average,introvert,2.88,cloud computing - visual - introvert - average,Below Average
+S0105,ayesha sheikh,cyber security,reading/writing,strong,extrovert,2.07,cyber security - reading/writing - extrovert - strong,Low
+S0106,zara rana,deep learning,auditory,weak,introvert,2.58,deep learning - auditory - introvert - weak,Below Average
+S0107,zara siddiqui,artificial intelligence,kinesthetic,strong,ambivert,2.06,artificial intelligence - kinesthetic - ambivert - strong,Low
+S0108,hiba iftikhar,data science,reading/writing,strong,extrovert,3.42,data science - reading/writing - extrovert - strong,Above Average
+S0109,zara siddiqui,information technology,reading/writing,strong,extrovert,2.59,information technology - reading/writing - extrovert - strong,Below Average
+S0110,sana qureshi,cloud computing,reading/writing,average,extrovert,2.07,cloud computing - reading/writing - extrovert - average,Low
+S0111,fatima rana,machine learning,visual,strong,ambivert,2.7,machine learning - visual - ambivert - strong,Below Average
+S0112,jawad malik,information technology,auditory,average,ambivert,2.87,information technology - auditory - ambivert - average,Below Average
+S0113,maryam siddiqui,information technology,kinesthetic,average,introvert,3.71,information technology - kinesthetic - introvert - average,High
+S0114,usman butt,deep learning,reading/writing,strong,ambivert,2.74,deep learning - reading/writing - ambivert - strong,Below Average
+S0115,jawad malik,deep learning,kinesthetic,weak,ambivert,3.75,deep learning - kinesthetic - ambivert - weak,High
+S0116,hiba qureshi,cyber security,reading/writing,strong,introvert,3.01,cyber security - reading/writing - introvert - strong,Above Average
+S0117,fatima sheikh,data science,reading/writing,average,ambivert,2.85,data science - reading/writing - ambivert - average,Below Average
+S0118,ayesha rana,computer networks,kinesthetic,weak,introvert,3.47,computer networks - kinesthetic - introvert - weak,Above Average
+S0119,sana chaudhry,artificial intelligence,reading/writing,weak,extrovert,2.03,artificial intelligence - reading/writing - extrovert - weak,Low
+S0120,maryam ashraf,cyber security,reading/writing,weak,extrovert,2.24,cyber security - reading/writing - extrovert - weak,Low
+S0121,maryam qureshi,software engineering,auditory,strong,introvert,3.21,software engineering - auditory - introvert - strong,Above Average
+S0122,fatima chaudhry,machine learning,auditory,average,extrovert,2.26,machine learning - auditory - extrovert - average,Low
+S0123,fatima iftikhar,cloud computing,auditory,strong,ambivert,2.82,cloud computing - auditory - ambivert - strong,Below Average
+S0124,maryam malik,data science,kinesthetic,weak,extrovert,3.1,data science - kinesthetic - extrovert - weak,Above Average
+S0125,maryam qureshi,cloud computing,reading/writing,weak,introvert,3.57,cloud computing - reading/writing - introvert - weak,High
+S0126,zara siddiqui,information technology,visual,strong,introvert,2.55,information technology - visual - introvert - strong,Below Average
+S0127,muneeb siddiqui,software engineering,auditory,strong,extrovert,2.58,software engineering - auditory - extrovert - strong,Below Average
+S0128,hiba khan,cloud computing,reading/writing,weak,extrovert,2.51,cloud computing - reading/writing - extrovert - weak,Below Average
+S0129,ahmad rana,deep learning,kinesthetic,strong,introvert,2.34,deep learning - kinesthetic - introvert - strong,Low
+S0130,bilal malik,data science,auditory,strong,introvert,2.51,data science - auditory - introvert - strong,Below Average
+S0131,sana khan,software engineering,kinesthetic,average,extrovert,2.0,software engineering - kinesthetic - extrovert - average,Low
+S0132,bilal butt,deep learning,kinesthetic,average,introvert,2.45,deep learning - kinesthetic - introvert - average,Low
+S0133,zara khan,software engineering,auditory,weak,introvert,2.0,software engineering - auditory - introvert - weak,Low
+S0134,maryam butt,cloud computing,reading/writing,strong,extrovert,3.51,cloud computing - reading/writing - extrovert - strong,High
+S0135,sana iftikhar,deep learning,reading/writing,average,ambivert,2.85,deep learning - reading/writing - ambivert - average,Below Average
+S0136,muneeb rana,artificial intelligence,visual,average,extrovert,3.38,artificial intelligence - visual - extrovert - average,Above Average
+S0137,maryam butt,cloud computing,auditory,average,extrovert,2.83,cloud computing - auditory - extrovert - average,Below Average
+S0138,hiba chaudhry,information technology,kinesthetic,average,ambivert,3.08,information technology - kinesthetic - ambivert - average,Above Average
+S0139,ahmad sheikh,data science,kinesthetic,average,extrovert,3.1,data science - kinesthetic - extrovert - average,Above Average
+S0140,zara malik,cyber security,auditory,average,introvert,2.39,cyber security - auditory - introvert - average,Low
+S0141,jawad iftikhar,data science,reading/writing,strong,introvert,3.29,data science - reading/writing - introvert - strong,Above Average
+S0142,ayesha iftikhar,cloud computing,auditory,weak,extrovert,3.91,cloud computing - auditory - extrovert - weak,High
+S0143,hassan rana,artificial intelligence,reading/writing,average,introvert,2.36,artificial intelligence - reading/writing - introvert - average,Low
+S0144,usman siddiqui,information technology,visual,average,introvert,3.45,information technology - visual - introvert - average,Above Average
+S0145,sana chaudhry,deep learning,visual,strong,introvert,3.54,deep learning - visual - introvert - strong,High
+S0146,muneeb malik,cloud computing,kinesthetic,weak,introvert,3.68,cloud computing - kinesthetic - introvert - weak,High
+S0147,sana malik,software engineering,auditory,average,extrovert,3.08,software engineering - auditory - extrovert - average,Above Average
+S0148,jawad butt,artificial intelligence,kinesthetic,weak,extrovert,3.09,artificial intelligence - kinesthetic - extrovert - weak,Above Average
+S0149,ayesha iftikhar,cyber security,kinesthetic,strong,extrovert,2.01,cyber security - kinesthetic - extrovert - strong,Low
+S0150,hiba ashraf,machine learning,auditory,strong,ambivert,3.25,machine learning - auditory - ambivert - strong,Above Average
+S0151,maryam khan,machine learning,kinesthetic,weak,introvert,3.06,machine learning - kinesthetic - introvert - weak,Above Average
+S0152,jawad ashraf,cyber security,kinesthetic,strong,introvert,3.82,cyber security - kinesthetic - introvert - strong,High
+S0153,fatima malik,deep learning,reading/writing,average,introvert,2.98,deep learning - reading/writing - introvert - average,Below Average
+S0154,muneeb chaudhry,cyber security,reading/writing,average,introvert,2.46,cyber security - reading/writing - introvert - average,Low
+S0155,zara siddiqui,artificial intelligence,reading/writing,weak,extrovert,3.56,artificial intelligence - reading/writing - extrovert - weak,High
+S0156,ayesha malik,machine learning,reading/writing,average,extrovert,2.25,machine learning - reading/writing - extrovert - average,Low
+S0157,hamza rana,artificial intelligence,auditory,strong,extrovert,3.95,artificial intelligence - auditory - extrovert - strong,High
+S0158,ali rana,data science,visual,weak,extrovert,3.88,data science - visual - extrovert - weak,High
+S0159,hiba siddiqui,cloud computing,auditory,weak,ambivert,2.05,cloud computing - auditory - ambivert - weak,Low
+S0160,usman sheikh,cyber security,visual,weak,extrovert,3.96,cyber security - visual - extrovert - weak,High
+S0161,sana siddiqui,computer networks,auditory,average,introvert,2.84,computer networks - auditory - introvert - average,Below Average
+S0162,muneeb ashraf,artificial intelligence,auditory,average,ambivert,2.98,artificial intelligence - auditory - ambivert - average,Below Average
+S0163,ayesha chaudhry,artificial intelligence,reading/writing,weak,introvert,2.09,artificial intelligence - reading/writing - introvert - weak,Low
+S0164,fatima khan,data science,kinesthetic,weak,extrovert,2.51,data science - kinesthetic - extrovert - weak,Below Average
+S0165,hamza qureshi,artificial intelligence,reading/writing,strong,introvert,3.56,artificial intelligence - reading/writing - introvert - strong,High
+S0166,hassan butt,deep learning,reading/writing,average,ambivert,3.84,deep learning - reading/writing - ambivert - average,High
+S0167,hassan chaudhry,computer networks,auditory,strong,ambivert,3.46,computer networks - auditory - ambivert - strong,Above Average
+S0168,hamza iftikhar,data science,kinesthetic,weak,ambivert,2.06,data science - kinesthetic - ambivert - weak,Low
+S0169,ahmad sheikh,deep learning,reading/writing,weak,extrovert,2.86,deep learning - reading/writing - extrovert - weak,Below Average
+S0170,fatima malik,deep learning,visual,weak,ambivert,3.72,deep learning - visual - ambivert - weak,High
+S0171,maryam rana,computer networks,kinesthetic,strong,extrovert,2.95,computer networks - kinesthetic - extrovert - strong,Below Average
+S0172,jawad khan,computer networks,auditory,strong,introvert,2.53,computer networks - auditory - introvert - strong,Below Average
+S0173,hassan ashraf,cyber security,visual,average,ambivert,3.88,cyber security - visual - ambivert - average,High
+S0174,hamza malik,data science,visual,weak,ambivert,2.43,data science - visual - ambivert - weak,Low
+S0175,jawad qureshi,machine learning,kinesthetic,strong,introvert,2.99,machine learning - kinesthetic - introvert - strong,Below Average
+S0176,maryam rana,machine learning,visual,weak,introvert,3.7,machine learning - visual - introvert - weak,High
+S0177,fatima siddiqui,artificial intelligence,kinesthetic,strong,introvert,2.31,artificial intelligence - kinesthetic - introvert - strong,Low
+S0178,ali butt,data science,visual,average,ambivert,3.4,data science - visual - ambivert - average,Above Average
+S0179,fatima sheikh,deep learning,reading/writing,strong,introvert,3.88,deep learning - reading/writing - introvert - strong,High
+S0180,bilal malik,information technology,kinesthetic,strong,extrovert,3.49,information technology - kinesthetic - extrovert - strong,Above Average
+S0181,hamza malik,deep learning,kinesthetic,strong,extrovert,2.37,deep learning - kinesthetic - extrovert - strong,Low
+S0182,maryam khan,cloud computing,kinesthetic,strong,extrovert,2.35,cloud computing - kinesthetic - extrovert - strong,Low
+S0183,ayesha butt,cloud computing,auditory,weak,extrovert,3.89,cloud computing - auditory - extrovert - weak,High
+S0184,maryam siddiqui,deep learning,visual,weak,extrovert,2.01,deep learning - visual - extrovert - weak,Low
+S0185,fatima khan,information technology,reading/writing,weak,introvert,2.8,information technology - reading/writing - introvert - weak,Below Average
+S0186,ali siddiqui,deep learning,reading/writing,average,extrovert,3.71,deep learning - reading/writing - extrovert - average,High
+S0187,sana iftikhar,data science,visual,average,extrovert,2.25,data science - visual - extrovert - average,Low
+S0188,usman sheikh,cloud computing,reading/writing,average,ambivert,3.69,cloud computing - reading/writing - ambivert - average,High
+S0189,hamza iftikhar,cloud computing,reading/writing,average,extrovert,3.26,cloud computing - reading/writing - extrovert - average,Above Average
+S0190,sana rana,deep learning,auditory,strong,ambivert,3.19,deep learning - auditory - ambivert - strong,Above Average
+S0191,usman khan,machine learning,kinesthetic,strong,extrovert,3.37,machine learning - kinesthetic - extrovert - strong,Above Average
+S0192,ahmad siddiqui,deep learning,auditory,strong,introvert,3.64,deep learning - auditory - introvert - strong,High
+S0193,ayesha khan,cloud computing,kinesthetic,strong,ambivert,3.72,cloud computing - kinesthetic - ambivert - strong,High
+S0194,ahmad qureshi,machine learning,kinesthetic,weak,extrovert,2.6,machine learning - kinesthetic - extrovert - weak,Below Average
+S0195,jawad rana,cloud computing,auditory,average,ambivert,3.19,cloud computing - auditory - ambivert - average,Above Average
+S0196,zara chaudhry,information technology,auditory,strong,extrovert,3.58,information technology - auditory - extrovert - strong,High
+S0197,sana ashraf,data science,visual,strong,introvert,3.41,data science - visual - introvert - strong,Above Average
+S0198,usman malik,deep learning,auditory,strong,introvert,3.63,deep learning - auditory - introvert - strong,High
+S0199,fatima sheikh,computer networks,auditory,weak,ambivert,2.73,computer networks - auditory - ambivert - weak,Below Average
+S0200,zara iftikhar,computer networks,reading/writing,weak,introvert,3.91,computer networks - reading/writing - introvert - weak,High
+S0201,fatima khan,cyber security,reading/writing,average,ambivert,2.78,cyber security - reading/writing - ambivert - average,Below Average
+S0202,usman qureshi,information technology,kinesthetic,weak,extrovert,3.61,information technology - kinesthetic - extrovert - weak,High
+S0203,maryam khan,machine learning,visual,weak,ambivert,3.59,machine learning - visual - ambivert - weak,High
+S0204,usman malik,deep learning,kinesthetic,average,extrovert,2.18,deep learning - kinesthetic - extrovert - average,Low
+S0205,bilal butt,machine learning,visual,strong,extrovert,2.41,machine learning - visual - extrovert - strong,Low
+S0206,sana chaudhry,artificial intelligence,auditory,weak,introvert,2.55,artificial intelligence - auditory - introvert - weak,Below Average
+S0207,ayesha chaudhry,artificial intelligence,auditory,strong,introvert,2.88,artificial intelligence - auditory - introvert - strong,Below Average
+S0208,ali rana,machine learning,visual,weak,ambivert,3.7,machine learning - visual - ambivert - weak,High
+S0209,ali butt,machine learning,reading/writing,weak,ambivert,3.19,machine learning - reading/writing - ambivert - weak,Above Average
+S0210,sana iftikhar,machine learning,auditory,average,ambivert,2.26,machine learning - auditory - ambivert - average,Low
+S0211,muneeb qureshi,cloud computing,auditory,strong,extrovert,2.74,cloud computing - auditory - extrovert - strong,Below Average
+S0212,bilal chaudhry,software engineering,auditory,average,ambivert,2.74,software engineering - auditory - ambivert - average,Below Average
+S0213,hiba sheikh,information technology,kinesthetic,average,extrovert,2.3,information technology - kinesthetic - extrovert - average,Low
+S0214,maryam siddiqui,deep learning,kinesthetic,weak,extrovert,2.65,deep learning - kinesthetic - extrovert - weak,Below Average
+S0215,fatima chaudhry,artificial intelligence,reading/writing,weak,extrovert,2.48,artificial intelligence - reading/writing - extrovert - weak,Low
+S0216,ali malik,cyber security,reading/writing,average,introvert,2.97,cyber security - reading/writing - introvert - average,Below Average
+S0217,hiba qureshi,computer networks,visual,weak,extrovert,3.23,computer networks - visual - extrovert - weak,Above Average
+S0218,ahmad ashraf,software engineering,kinesthetic,strong,extrovert,3.47,software engineering - kinesthetic - extrovert - strong,Above Average
+S0219,sana malik,cyber security,auditory,average,extrovert,2.14,cyber security - auditory - extrovert - average,Low
+S0220,jawad qureshi,data science,auditory,strong,ambivert,2.76,data science - auditory - ambivert - strong,Below Average
+S0221,maryam butt,computer networks,reading/writing,weak,ambivert,3.69,computer networks - reading/writing - ambivert - weak,High
+S0222,usman sheikh,information technology,reading/writing,weak,extrovert,2.37,information technology - reading/writing - extrovert - weak,Low
+S0223,jawad malik,artificial intelligence,visual,weak,ambivert,3.66,artificial intelligence - visual - ambivert - weak,High
+S0224,muneeb butt,artificial intelligence,kinesthetic,average,introvert,2.16,artificial intelligence - kinesthetic - introvert - average,Low
+S0225,usman iftikhar,data science,reading/writing,weak,introvert,2.5,data science - reading/writing - introvert - weak,Low
+S0226,bilal sheikh,machine learning,auditory,weak,introvert,3.33,machine learning - auditory - introvert - weak,Above Average
+S0227,ayesha malik,information technology,auditory,strong,introvert,2.81,information technology - auditory - introvert - strong,Below Average
+S0228,hamza qureshi,computer networks,kinesthetic,average,ambivert,2.64,computer networks - kinesthetic - ambivert - average,Below Average
+S0229,hassan chaudhry,deep learning,auditory,strong,introvert,2.0,deep learning - auditory - introvert - strong,Low
+S0230,muneeb qureshi,cloud computing,reading/writing,weak,ambivert,2.09,cloud computing - reading/writing - ambivert - weak,Low
+S0231,sana iftikhar,machine learning,visual,strong,introvert,3.31,machine learning - visual - introvert - strong,Above Average
+S0232,ali rana,cyber security,kinesthetic,average,introvert,3.05,cyber security - kinesthetic - introvert - average,Above Average
+S0233,sana siddiqui,artificial intelligence,visual,average,introvert,3.14,artificial intelligence - visual - introvert - average,Above Average
+S0234,hiba ashraf,deep learning,kinesthetic,strong,introvert,2.51,deep learning - kinesthetic - introvert - strong,Below Average
+S0235,usman siddiqui,information technology,kinesthetic,weak,extrovert,2.46,information technology - kinesthetic - extrovert - weak,Low
+S0236,ahmad siddiqui,software engineering,visual,average,introvert,3.71,software engineering - visual - introvert - average,High
+S0237,ayesha chaudhry,software engineering,visual,weak,extrovert,3.03,software engineering - visual - extrovert - weak,Above Average
+S0238,usman khan,deep learning,kinesthetic,weak,introvert,3.87,deep learning - kinesthetic - introvert - weak,High
+S0239,bilal sheikh,machine learning,visual,average,introvert,3.29,machine learning - visual - introvert - average,Above Average
+S0240,zara ashraf,software engineering,auditory,strong,ambivert,3.48,software engineering - auditory - ambivert - strong,Above Average
+S0241,bilal malik,software engineering,auditory,strong,introvert,3.76,software engineering - auditory - introvert - strong,High
+S0242,hamza ashraf,computer networks,reading/writing,strong,introvert,2.92,computer networks - reading/writing - introvert - strong,Below Average
+S0243,ali qureshi,data science,reading/writing,weak,ambivert,3.21,data science - reading/writing - ambivert - weak,Above Average
+S0244,ahmad khan,machine learning,kinesthetic,strong,extrovert,2.54,machine learning - kinesthetic - extrovert - strong,Below Average
+S0245,sana qureshi,information technology,auditory,average,ambivert,3.9,information technology - auditory - ambivert - average,High
+S0246,fatima ashraf,software engineering,reading/writing,strong,introvert,3.29,software engineering - reading/writing - introvert - strong,Above Average
+S0247,usman iftikhar,software engineering,auditory,strong,introvert,2.95,software engineering - auditory - introvert - strong,Below Average
+S0248,hiba siddiqui,cyber security,reading/writing,strong,extrovert,2.9,cyber security - reading/writing - extrovert - strong,Below Average
+S0249,ahmad sheikh,cyber security,reading/writing,average,ambivert,2.85,cyber security - reading/writing - ambivert - average,Below Average
+S0250,jawad rana,machine learning,reading/writing,strong,introvert,2.95,machine learning - reading/writing - introvert - strong,Below Average
+S0251,ali ashraf,deep learning,visual,weak,extrovert,3.78,deep learning - visual - extrovert - weak,High
+S0252,jawad chaudhry,cloud computing,visual,average,extrovert,3.06,cloud computing - visual - extrovert - average,Above Average
+S0253,bilal siddiqui,artificial intelligence,kinesthetic,strong,extrovert,3.37,artificial intelligence - kinesthetic - extrovert - strong,Above Average
+S0254,hiba ashraf,computer networks,visual,weak,ambivert,3.68,computer networks - visual - ambivert - weak,High
+S0255,bilal qureshi,deep learning,auditory,average,introvert,3.44,deep learning - auditory - introvert - average,Above Average
+S0256,fatima siddiqui,machine learning,visual,strong,ambivert,2.35,machine learning - visual - ambivert - strong,Low
+S0257,muneeb chaudhry,artificial intelligence,auditory,weak,ambivert,2.46,artificial intelligence - auditory - ambivert - weak,Low
+S0258,ayesha malik,artificial intelligence,auditory,weak,extrovert,3.66,artificial intelligence - auditory - extrovert - weak,High
+S0259,usman siddiqui,software engineering,auditory,average,extrovert,3.26,software engineering - auditory - extrovert - average,Above Average
+S0260,hassan siddiqui,computer networks,auditory,weak,introvert,3.28,computer networks - auditory - introvert - weak,Above Average
+S0261,ahmad siddiqui,deep learning,kinesthetic,average,ambivert,2.47,deep learning - kinesthetic - ambivert - average,Low
+S0262,fatima butt,computer networks,reading/writing,strong,ambivert,3.12,computer networks - reading/writing - ambivert - strong,Above Average
+S0263,zara rana,deep learning,reading/writing,weak,introvert,2.32,deep learning - reading/writing - introvert - weak,Low
+S0264,ayesha butt,cloud computing,visual,weak,introvert,2.97,cloud computing - visual - introvert - weak,Below Average
+S0265,hamza rana,data science,reading/writing,strong,extrovert,3.68,data science - reading/writing - extrovert - strong,High
+S0266,bilal ashraf,data science,reading/writing,average,extrovert,2.28,data science - reading/writing - extrovert - average,Low
+S0267,usman chaudhry,deep learning,visual,weak,introvert,2.84,deep learning - visual - introvert - weak,Below Average
+S0268,hassan khan,software engineering,reading/writing,strong,introvert,2.77,software engineering - reading/writing - introvert - strong,Below Average
+S0269,sana iftikhar,cloud computing,kinesthetic,weak,extrovert,2.9,cloud computing - kinesthetic - extrovert - weak,Below Average
+S0270,bilal malik,software engineering,kinesthetic,average,extrovert,3.5,software engineering - kinesthetic - extrovert - average,Above Average
+S0271,hiba chaudhry,computer networks,reading/writing,strong,extrovert,2.02,computer networks - reading/writing - extrovert - strong,Low
+S0272,hassan rana,data science,visual,weak,introvert,3.81,data science - visual - introvert - weak,High
+S0273,zara butt,machine learning,visual,average,ambivert,2.94,machine learning - visual - ambivert - average,Below Average
+S0274,hiba sheikh,cyber security,auditory,strong,extrovert,3.98,cyber security - auditory - extrovert - strong,High
+S0275,ayesha qureshi,information technology,visual,weak,ambivert,2.74,information technology - visual - ambivert - weak,Below Average
+S0276,muneeb butt,computer networks,visual,strong,extrovert,2.9,computer networks - visual - extrovert - strong,Below Average
+S0277,zara rana,artificial intelligence,kinesthetic,weak,ambivert,3.2,artificial intelligence - kinesthetic - ambivert - weak,Above Average
+S0278,ahmad iftikhar,data science,reading/writing,weak,ambivert,3.75,data science - reading/writing - ambivert - weak,High
+S0279,sana qureshi,data science,kinesthetic,weak,ambivert,2.56,data science - kinesthetic - ambivert - weak,Below Average
+S0280,fatima siddiqui,information technology,reading/writing,average,ambivert,3.21,information technology - reading/writing - ambivert - average,Above Average
+S0281,ahmad sheikh,artificial intelligence,kinesthetic,weak,extrovert,2.7,artificial intelligence - kinesthetic - extrovert - weak,Below Average
+S0282,maryam qureshi,data science,reading/writing,average,introvert,3.29,data science - reading/writing - introvert - average,Above Average
+S0283,usman iftikhar,computer networks,reading/writing,weak,introvert,3.96,computer networks - reading/writing - introvert - weak,High
+S0284,hamza chaudhry,machine learning,visual,average,extrovert,2.67,machine learning - visual - extrovert - average,Below Average
+S0285,usman ashraf,deep learning,visual,strong,extrovert,2.82,deep learning - visual - extrovert - strong,Below Average
+S0286,usman chaudhry,artificial intelligence,visual,average,ambivert,2.35,artificial intelligence - visual - ambivert - average,Low
+S0287,ali chaudhry,information technology,visual,average,extrovert,3.35,information technology - visual - extrovert - average,Above Average
+S0288,ayesha malik,machine learning,reading/writing,strong,ambivert,2.13,machine learning - reading/writing - ambivert - strong,Low
+S0289,jawad malik,software engineering,reading/writing,weak,ambivert,2.95,software engineering - reading/writing - ambivert - weak,Below Average
+S0290,bilal khan,machine learning,auditory,strong,extrovert,2.67,machine learning - auditory - extrovert - strong,Below Average
+S0291,hassan siddiqui,machine learning,auditory,weak,introvert,2.78,machine learning - auditory - introvert - weak,Below Average
+S0292,ali siddiqui,machine learning,visual,weak,ambivert,3.7,machine learning - visual - ambivert - weak,High
+S0293,fatima sheikh,information technology,auditory,weak,introvert,2.08,information technology - auditory - introvert - weak,Low
+S0294,hassan butt,machine learning,auditory,weak,extrovert,2.49,machine learning - auditory - extrovert - weak,Low
+S0295,bilal khan,machine learning,kinesthetic,weak,introvert,2.74,machine learning - kinesthetic - introvert - weak,Below Average
+S0296,hiba siddiqui,machine learning,kinesthetic,strong,extrovert,2.68,machine learning - kinesthetic - extrovert - strong,Below Average
+S0297,ali siddiqui,computer networks,auditory,weak,extrovert,2.09,computer networks - auditory - extrovert - weak,Low
+S0298,hiba sheikh,cloud computing,visual,average,introvert,3.31,cloud computing - visual - introvert - average,Above Average
+S0299,jawad iftikhar,computer networks,reading/writing,strong,extrovert,2.82,computer networks - reading/writing - extrovert - strong,Below Average
+S0300,maryam malik,information technology,visual,average,extrovert,2.65,information technology - visual - extrovert - average,Below Average
+S0301,fatima ashraf,computer networks,visual,weak,ambivert,2.72,computer networks - visual - ambivert - weak,Below Average
+S0302,sana rana,machine learning,visual,weak,ambivert,2.2,machine learning - visual - ambivert - weak,Low
+S0303,jawad butt,data science,visual,strong,ambivert,3.5,data science - visual - ambivert - strong,Above Average
+S0304,sana sheikh,deep learning,kinesthetic,average,ambivert,3.97,deep learning - kinesthetic - ambivert - average,High
+S0305,sana chaudhry,information technology,visual,strong,introvert,3.52,information technology - visual - introvert - strong,High
+S0306,ahmad khan,deep learning,auditory,average,extrovert,3.54,deep learning - auditory - extrovert - average,High
+S0307,jawad malik,cyber security,auditory,weak,introvert,2.98,cyber security - auditory - introvert - weak,Below Average
+S0308,jawad rana,data science,auditory,strong,introvert,3.41,data science - auditory - introvert - strong,Above Average
+S0309,ahmad butt,deep learning,visual,average,introvert,3.53,deep learning - visual - introvert - average,High
+S0310,ahmad qureshi,data science,visual,average,extrovert,3.31,data science - visual - extrovert - average,Above Average
+S0311,sana sheikh,cyber security,auditory,strong,ambivert,3.15,cyber security - auditory - ambivert - strong,Above Average
+S0312,hiba iftikhar,software engineering,kinesthetic,weak,extrovert,3.11,software engineering - kinesthetic - extrovert - weak,Above Average
+S0313,jawad malik,data science,auditory,strong,ambivert,2.3,data science - auditory - ambivert - strong,Low
+S0314,jawad sheikh,artificial intelligence,visual,average,extrovert,3.37,artificial intelligence - visual - extrovert - average,Above Average
+S0315,bilal siddiqui,information technology,reading/writing,weak,introvert,2.1,information technology - reading/writing - introvert - weak,Low
+S0316,zara sheikh,data science,auditory,average,introvert,3.21,data science - auditory - introvert - average,Above Average
+S0317,jawad siddiqui,software engineering,visual,average,extrovert,3.67,software engineering - visual - extrovert - average,High
+S0318,ayesha malik,deep learning,auditory,strong,ambivert,2.08,deep learning - auditory - ambivert - strong,Low
+S0319,sana malik,deep learning,visual,strong,ambivert,3.29,deep learning - visual - ambivert - strong,Above Average
+S0320,hassan malik,information technology,kinesthetic,average,introvert,3.49,information technology - kinesthetic - introvert - average,Above Average
+S0321,fatima siddiqui,computer networks,visual,average,extrovert,3.86,computer networks - visual - extrovert - average,High
+S0322,muneeb khan,machine learning,reading/writing,strong,introvert,2.06,machine learning - reading/writing - introvert - strong,Low
+S0323,bilal siddiqui,software engineering,kinesthetic,average,extrovert,3.76,software engineering - kinesthetic - extrovert - average,High
+S0324,bilal rana,machine learning,reading/writing,weak,extrovert,3.0,machine learning - reading/writing - extrovert - weak,Below Average
+S0325,muneeb qureshi,computer networks,auditory,strong,extrovert,2.19,computer networks - auditory - extrovert - strong,Low
+S0326,sana butt,software engineering,reading/writing,strong,ambivert,2.4,software engineering - reading/writing - ambivert - strong,Low
+S0327,zara siddiqui,machine learning,kinesthetic,weak,ambivert,3.86,machine learning - kinesthetic - ambivert - weak,High
+S0328,zara iftikhar,deep learning,visual,average,ambivert,2.58,deep learning - visual - ambivert - average,Below Average
+S0329,hamza rana,cyber security,visual,strong,ambivert,2.54,cyber security - visual - ambivert - strong,Below Average
+S0330,jawad rana,computer networks,auditory,strong,extrovert,3.96,computer networks - auditory - extrovert - strong,High
+S0331,usman khan,data science,kinesthetic,weak,extrovert,3.57,data science - kinesthetic - extrovert - weak,High
+S0332,muneeb siddiqui,machine learning,auditory,average,introvert,3.82,machine learning - auditory - introvert - average,High
+S0333,zara chaudhry,artificial intelligence,reading/writing,average,introvert,3.68,artificial intelligence - reading/writing - introvert - average,High
+S0334,jawad butt,cloud computing,reading/writing,weak,introvert,2.33,cloud computing - reading/writing - introvert - weak,Low
+S0335,usman sheikh,information technology,reading/writing,weak,introvert,3.72,information technology - reading/writing - introvert - weak,High
+S0336,jawad siddiqui,data science,reading/writing,strong,ambivert,3.78,data science - reading/writing - ambivert - strong,High
+S0337,hamza malik,cyber security,visual,strong,ambivert,2.51,cyber security - visual - ambivert - strong,Below Average
+S0338,sana chaudhry,cloud computing,visual,strong,introvert,3.09,cloud computing - visual - introvert - strong,Above Average
+S0339,hassan iftikhar,information technology,kinesthetic,average,introvert,2.39,information technology - kinesthetic - introvert - average,Low
+S0340,hamza rana,data science,reading/writing,strong,introvert,3.84,data science - reading/writing - introvert - strong,High
+S0341,jawad sheikh,software engineering,kinesthetic,strong,introvert,2.61,software engineering - kinesthetic - introvert - strong,Below Average
+S0342,sana rana,deep learning,reading/writing,average,ambivert,3.12,deep learning - reading/writing - ambivert - average,Above Average
+S0343,ali malik,deep learning,kinesthetic,strong,ambivert,2.59,deep learning - kinesthetic - ambivert - strong,Below Average
+S0344,muneeb butt,artificial intelligence,reading/writing,weak,ambivert,2.64,artificial intelligence - reading/writing - ambivert - weak,Below Average
+S0345,hiba iftikhar,information technology,reading/writing,average,extrovert,2.1,information technology - reading/writing - extrovert - average,Low
+S0346,muneeb qureshi,data science,kinesthetic,weak,introvert,3.49,data science - kinesthetic - introvert - weak,Above Average
+S0347,fatima siddiqui,machine learning,reading/writing,strong,extrovert,2.43,machine learning - reading/writing - extrovert - strong,Low
+S0348,jawad ashraf,artificial intelligence,kinesthetic,average,introvert,3.79,artificial intelligence - kinesthetic - introvert - average,High
+S0349,usman rana,machine learning,reading/writing,strong,ambivert,2.17,machine learning - reading/writing - ambivert - strong,Low
+S0350,zara rana,cyber security,visual,weak,ambivert,2.92,cyber security - visual - ambivert - weak,Below Average
+S0351,ayesha sheikh,software engineering,visual,strong,extrovert,3.0,software engineering - visual - extrovert - strong,Below Average
+S0352,ahmad siddiqui,artificial intelligence,kinesthetic,weak,extrovert,3.68,artificial intelligence - kinesthetic - extrovert - weak,High
+S0353,hassan butt,information technology,auditory,weak,introvert,3.35,information technology - auditory - introvert - weak,Above Average
+S0354,fatima sheikh,deep learning,reading/writing,weak,introvert,3.42,deep learning - reading/writing - introvert - weak,Above Average
+S0355,sana qureshi,artificial intelligence,kinesthetic,weak,ambivert,2.3,artificial intelligence - kinesthetic - ambivert - weak,Low
+S0356,ali malik,software engineering,kinesthetic,average,ambivert,2.09,software engineering - kinesthetic - ambivert - average,Low
+S0357,bilal iftikhar,software engineering,visual,weak,extrovert,2.59,software engineering - visual - extrovert - weak,Below Average
+S0358,ayesha sheikh,software engineering,visual,strong,ambivert,2.17,software engineering - visual - ambivert - strong,Low
+S0359,muneeb rana,software engineering,kinesthetic,average,introvert,2.98,software engineering - kinesthetic - introvert - average,Below Average
+S0360,ahmad ashraf,cloud computing,visual,weak,introvert,3.52,cloud computing - visual - introvert - weak,High
+S0361,bilal ashraf,data science,auditory,strong,extrovert,2.37,data science - auditory - extrovert - strong,Low
+S0362,hiba butt,deep learning,reading/writing,strong,introvert,2.88,deep learning - reading/writing - introvert - strong,Below Average
+S0363,hassan ashraf,artificial intelligence,kinesthetic,weak,ambivert,2.71,artificial intelligence - kinesthetic - ambivert - weak,Below Average
+S0364,muneeb chaudhry,artificial intelligence,visual,average,extrovert,2.6,artificial intelligence - visual - extrovert - average,Below Average
+S0365,muneeb sheikh,deep learning,reading/writing,strong,ambivert,2.57,deep learning - reading/writing - ambivert - strong,Below Average
+S0366,maryam ashraf,information technology,auditory,average,ambivert,3.09,information technology - auditory - ambivert - average,Above Average
+S0367,ali butt,information technology,reading/writing,strong,ambivert,3.06,information technology - reading/writing - ambivert - strong,Above Average
+S0368,hamza siddiqui,information technology,visual,average,ambivert,3.72,information technology - visual - ambivert - average,High
+S0369,hamza rana,data science,auditory,strong,introvert,2.16,data science - auditory - introvert - strong,Low
+S0370,hassan chaudhry,machine learning,reading/writing,weak,ambivert,2.61,machine learning - reading/writing - ambivert - weak,Below Average
+S0371,maryam khan,cloud computing,reading/writing,average,extrovert,2.01,cloud computing - reading/writing - extrovert - average,Low
+S0372,hamza qureshi,computer networks,reading/writing,strong,extrovert,2.98,computer networks - reading/writing - extrovert - strong,Below Average
+S0373,maryam chaudhry,artificial intelligence,kinesthetic,strong,introvert,3.47,artificial intelligence - kinesthetic - introvert - strong,Above Average
+S0374,muneeb iftikhar,computer networks,reading/writing,average,extrovert,3.6,computer networks - reading/writing - extrovert - average,High
+S0375,ayesha chaudhry,cyber security,visual,average,introvert,2.6,cyber security - visual - introvert - average,Below Average
+S0376,hassan qureshi,deep learning,kinesthetic,average,ambivert,3.11,deep learning - kinesthetic - ambivert - average,Above Average
+S0377,ali qureshi,data science,reading/writing,average,ambivert,3.78,data science - reading/writing - ambivert - average,High
+S0378,bilal iftikhar,information technology,kinesthetic,strong,ambivert,3.33,information technology - kinesthetic - ambivert - strong,Above Average
+S0379,bilal sheikh,artificial intelligence,kinesthetic,weak,introvert,3.33,artificial intelligence - kinesthetic - introvert - weak,Above Average
+S0380,maryam iftikhar,computer networks,visual,strong,introvert,3.91,computer networks - visual - introvert - strong,High
+S0381,muneeb sheikh,software engineering,reading/writing,weak,extrovert,3.05,software engineering - reading/writing - extrovert - weak,Above Average
+S0382,fatima iftikhar,machine learning,auditory,strong,extrovert,3.97,machine learning - auditory - extrovert - strong,High
+S0383,muneeb sheikh,data science,kinesthetic,weak,introvert,3.33,data science - kinesthetic - introvert - weak,Above Average
+S0384,maryam ashraf,cyber security,visual,average,introvert,2.06,cyber security - visual - introvert - average,Low
+S0385,muneeb ashraf,data science,auditory,average,extrovert,3.7,data science - auditory - extrovert - average,High
+S0386,usman rana,cloud computing,kinesthetic,weak,extrovert,2.76,cloud computing - kinesthetic - extrovert - weak,Below Average
+S0387,ayesha butt,machine learning,reading/writing,average,introvert,2.16,machine learning - reading/writing - introvert - average,Low
+S0388,hiba chaudhry,cyber security,auditory,strong,ambivert,3.03,cyber security - auditory - ambivert - strong,Above Average
+S0389,ayesha siddiqui,information technology,reading/writing,average,ambivert,2.5,information technology - reading/writing - ambivert - average,Low
+S0390,usman siddiqui,information technology,reading/writing,weak,ambivert,2.37,information technology - reading/writing - ambivert - weak,Low
+S0391,ayesha khan,machine learning,auditory,average,ambivert,2.69,machine learning - auditory - ambivert - average,Below Average
+S0392,fatima malik,computer networks,reading/writing,strong,ambivert,3.95,computer networks - reading/writing - ambivert - strong,High
+S0393,hassan chaudhry,cyber security,visual,average,extrovert,2.41,cyber security - visual - extrovert - average,Low
+S0394,sana chaudhry,computer networks,visual,average,extrovert,3.6,computer networks - visual - extrovert - average,High
+S0395,ahmad siddiqui,deep learning,auditory,weak,extrovert,3.42,deep learning - auditory - extrovert - weak,Above Average
+S0396,ayesha siddiqui,cloud computing,reading/writing,average,introvert,2.27,cloud computing - reading/writing - introvert - average,Low
+S0397,hiba sheikh,machine learning,reading/writing,average,ambivert,3.67,machine learning - reading/writing - ambivert - average,High
+S0398,zara ashraf,cyber security,auditory,weak,introvert,3.76,cyber security - auditory - introvert - weak,High
+S0399,ali sheikh,information technology,kinesthetic,strong,ambivert,3.39,information technology - kinesthetic - ambivert - strong,Above Average
+S0400,usman siddiqui,information technology,auditory,weak,ambivert,3.32,information technology - auditory - ambivert - weak,Above Average
+S0401,jawad sheikh,computer networks,visual,weak,ambivert,3.86,computer networks - visual - ambivert - weak,High
+S0402,ayesha qureshi,deep learning,kinesthetic,average,ambivert,3.93,deep learning - kinesthetic - ambivert - average,High
+S0403,hiba malik,cyber security,auditory,weak,extrovert,2.95,cyber security - auditory - extrovert - weak,Below Average
+S0404,ayesha qureshi,information technology,auditory,average,introvert,2.13,information technology - auditory - introvert - average,Low
+S0405,ahmad butt,software engineering,kinesthetic,weak,ambivert,2.49,software engineering - kinesthetic - ambivert - weak,Low
+S0406,hamza qureshi,data science,visual,strong,extrovert,2.62,data science - visual - extrovert - strong,Below Average
+S0407,ali sheikh,artificial intelligence,kinesthetic,average,ambivert,3.35,artificial intelligence - kinesthetic - ambivert - average,Above Average
+S0408,hassan butt,data science,auditory,average,extrovert,2.6,data science - auditory - extrovert - average,Below Average
+S0409,hiba siddiqui,computer networks,auditory,weak,ambivert,3.96,computer networks - auditory - ambivert - weak,High
+S0410,ahmad rana,deep learning,reading/writing,weak,ambivert,3.73,deep learning - reading/writing - ambivert - weak,High
+S0411,ali sheikh,artificial intelligence,auditory,average,extrovert,2.26,artificial intelligence - auditory - extrovert - average,Low
+S0412,usman qureshi,information technology,reading/writing,weak,extrovert,3.71,information technology - reading/writing - extrovert - weak,High
+S0413,maryam ashraf,cloud computing,reading/writing,weak,ambivert,2.84,cloud computing - reading/writing - ambivert - weak,Below Average
+S0414,zara sheikh,deep learning,reading/writing,weak,extrovert,3.72,deep learning - reading/writing - extrovert - weak,High
+S0415,hiba ashraf,machine learning,reading/writing,weak,extrovert,2.32,machine learning - reading/writing - extrovert - weak,Low
+S0416,bilal rana,software engineering,auditory,strong,introvert,3.09,software engineering - auditory - introvert - strong,Above Average
+S0417,sana iftikhar,information technology,auditory,average,introvert,3.19,information technology - auditory - introvert - average,Above Average
+S0418,hassan siddiqui,deep learning,visual,weak,introvert,2.34,deep learning - visual - introvert - weak,Low
+S0419,jawad rana,information technology,visual,average,introvert,2.38,information technology - visual - introvert - average,Low
+S0420,hassan chaudhry,cyber security,auditory,weak,extrovert,2.32,cyber security - auditory - extrovert - weak,Low
+S0421,hamza ashraf,cyber security,kinesthetic,average,ambivert,3.83,cyber security - kinesthetic - ambivert - average,High
+S0422,ahmad siddiqui,computer networks,visual,strong,ambivert,3.04,computer networks - visual - ambivert - strong,Above Average
+S0423,zara sheikh,computer networks,auditory,strong,ambivert,3.38,computer networks - auditory - ambivert - strong,Above Average
+S0424,hiba ashraf,deep learning,visual,strong,extrovert,2.17,deep learning - visual - extrovert - strong,Low
+S0425,maryam sheikh,software engineering,kinesthetic,average,introvert,2.27,software engineering - kinesthetic - introvert - average,Low
+S0426,hamza ashraf,cloud computing,reading/writing,weak,introvert,2.91,cloud computing - reading/writing - introvert - weak,Below Average
+S0427,hiba malik,software engineering,auditory,strong,ambivert,2.59,software engineering - auditory - ambivert - strong,Below Average
+S0428,maryam siddiqui,cyber security,reading/writing,strong,extrovert,2.2,cyber security - reading/writing - extrovert - strong,Low
+S0429,maryam qureshi,data science,kinesthetic,strong,extrovert,2.06,data science - kinesthetic - extrovert - strong,Low
+S0430,muneeb khan,information technology,reading/writing,weak,introvert,3.71,information technology - reading/writing - introvert - weak,High
+S0431,jawad rana,data science,reading/writing,weak,ambivert,2.58,data science - reading/writing - ambivert - weak,Below Average
+S0432,bilal ashraf,software engineering,auditory,strong,extrovert,3.79,software engineering - auditory - extrovert - strong,High
+S0433,ayesha sheikh,data science,visual,strong,introvert,3.28,data science - visual - introvert - strong,Above Average
+S0434,maryam iftikhar,information technology,reading/writing,weak,extrovert,2.48,information technology - reading/writing - extrovert - weak,Low
+S0435,bilal malik,computer networks,auditory,average,introvert,2.81,computer networks - auditory - introvert - average,Below Average
+S0436,jawad iftikhar,deep learning,visual,strong,introvert,2.94,deep learning - visual - introvert - strong,Below Average
+S0437,fatima sheikh,information technology,kinesthetic,strong,ambivert,3.81,information technology - kinesthetic - ambivert - strong,High
+S0438,usman rana,machine learning,reading/writing,strong,extrovert,3.53,machine learning - reading/writing - extrovert - strong,High
+S0439,sana khan,information technology,auditory,average,extrovert,3.24,information technology - auditory - extrovert - average,Above Average
+S0440,ayesha khan,artificial intelligence,reading/writing,strong,ambivert,2.76,artificial intelligence - reading/writing - ambivert - strong,Below Average
+S0441,usman qureshi,machine learning,reading/writing,strong,extrovert,3.17,machine learning - reading/writing - extrovert - strong,Above Average
+S0442,bilal siddiqui,artificial intelligence,reading/writing,strong,extrovert,2.98,artificial intelligence - reading/writing - extrovert - strong,Below Average
+S0443,ali rana,software engineering,auditory,strong,extrovert,3.41,software engineering - auditory - extrovert - strong,Above Average
+S0444,sana iftikhar,deep learning,visual,weak,ambivert,2.24,deep learning - visual - ambivert - weak,Low
+S0445,ali siddiqui,data science,reading/writing,strong,introvert,3.6,data science - reading/writing - introvert - strong,High
+S0446,ayesha rana,data science,kinesthetic,strong,ambivert,2.87,data science - kinesthetic - ambivert - strong,Below Average
+S0447,fatima qureshi,machine learning,auditory,weak,ambivert,3.34,machine learning - auditory - ambivert - weak,Above Average
+S0448,muneeb siddiqui,cyber security,kinesthetic,weak,introvert,2.25,cyber security - kinesthetic - introvert - weak,Low
+S0449,ayesha rana,cyber security,reading/writing,weak,extrovert,3.18,cyber security - reading/writing - extrovert - weak,Above Average
+S0450,hiba ashraf,information technology,auditory,strong,ambivert,3.08,information technology - auditory - ambivert - strong,Above Average
+S0451,muneeb chaudhry,data science,visual,strong,extrovert,3.36,data science - visual - extrovert - strong,Above Average
+S0452,maryam rana,data science,auditory,strong,introvert,2.44,data science - auditory - introvert - strong,Low
+S0453,hiba khan,artificial intelligence,reading/writing,strong,extrovert,2.29,artificial intelligence - reading/writing - extrovert - strong,Low
+S0454,hassan siddiqui,data science,reading/writing,weak,ambivert,2.31,data science - reading/writing - ambivert - weak,Low
+S0455,jawad rana,artificial intelligence,auditory,weak,introvert,3.57,artificial intelligence - auditory - introvert - weak,High
+S0456,maryam chaudhry,cyber security,auditory,average,ambivert,3.78,cyber security - auditory - ambivert - average,High
+S0457,ayesha sheikh,data science,auditory,weak,introvert,2.03,data science - auditory - introvert - weak,Low
+S0458,ayesha sheikh,data science,kinesthetic,strong,introvert,3.33,data science - kinesthetic - introvert - strong,Above Average
+S0459,sana khan,computer networks,kinesthetic,weak,extrovert,3.92,computer networks - kinesthetic - extrovert - weak,High
+S0460,zara qureshi,information technology,auditory,strong,introvert,2.64,information technology - auditory - introvert - strong,Below Average
+S0461,fatima siddiqui,cyber security,kinesthetic,average,ambivert,3.16,cyber security - kinesthetic - ambivert - average,Above Average
+S0462,zara qureshi,information technology,reading/writing,strong,extrovert,3.12,information technology - reading/writing - extrovert - strong,Above Average
+S0463,muneeb malik,deep learning,kinesthetic,strong,introvert,3.16,deep learning - kinesthetic - introvert - strong,Above Average
+S0464,ahmad qureshi,artificial intelligence,kinesthetic,weak,introvert,3.64,artificial intelligence - kinesthetic - introvert - weak,High
+S0465,bilal butt,information technology,auditory,strong,introvert,2.08,information technology - auditory - introvert - strong,Low
+S0466,muneeb siddiqui,information technology,visual,average,introvert,3.84,information technology - visual - introvert - average,High
+S0467,ayesha rana,cyber security,reading/writing,strong,extrovert,3.66,cyber security - reading/writing - extrovert - strong,High
+S0468,jawad malik,information technology,reading/writing,average,extrovert,3.65,information technology - reading/writing - extrovert - average,High
+S0469,ayesha siddiqui,computer networks,visual,average,ambivert,3.67,computer networks - visual - ambivert - average,High
+S0470,hamza siddiqui,machine learning,visual,weak,extrovert,3.23,machine learning - visual - extrovert - weak,Above Average
+S0471,jawad khan,computer networks,visual,weak,extrovert,2.49,computer networks - visual - extrovert - weak,Low
+S0472,fatima chaudhry,deep learning,reading/writing,average,ambivert,2.48,deep learning - reading/writing - ambivert - average,Low
+S0473,fatima sheikh,deep learning,reading/writing,strong,ambivert,2.7,deep learning - reading/writing - ambivert - strong,Below Average
+S0474,ayesha khan,deep learning,kinesthetic,weak,extrovert,3.59,deep learning - kinesthetic - extrovert - weak,High
+S0475,fatima ashraf,machine learning,visual,average,extrovert,3.41,machine learning - visual - extrovert - average,Above Average
+S0476,sana ashraf,cyber security,auditory,average,introvert,2.97,cyber security - auditory - introvert - average,Below Average
+S0477,ali iftikhar,software engineering,reading/writing,weak,introvert,2.11,software engineering - reading/writing - introvert - weak,Low
+S0478,hiba ashraf,cloud computing,visual,weak,ambivert,3.02,cloud computing - visual - ambivert - weak,Above Average
+S0479,jawad chaudhry,computer networks,auditory,weak,extrovert,2.57,computer networks - auditory - extrovert - weak,Below Average
+S0480,ahmad rana,computer networks,auditory,average,ambivert,3.8,computer networks - auditory - ambivert - average,High
+S0481,ayesha iftikhar,computer networks,auditory,weak,ambivert,3.57,computer networks - auditory - ambivert - weak,High
+S0482,hiba iftikhar,machine learning,visual,weak,introvert,2.04,machine learning - visual - introvert - weak,Low
+S0483,hiba malik,machine learning,visual,strong,ambivert,3.57,machine learning - visual - ambivert - strong,High
+S0484,hiba ashraf,cyber security,kinesthetic,strong,extrovert,3.99,cyber security - kinesthetic - extrovert - strong,High
+S0485,hiba rana,artificial intelligence,kinesthetic,average,ambivert,3.09,artificial intelligence - kinesthetic - ambivert - average,Above Average
+S0486,muneeb iftikhar,information technology,kinesthetic,strong,extrovert,2.52,information technology - kinesthetic - extrovert - strong,Below Average
+S0487,bilal rana,cloud computing,reading/writing,weak,ambivert,2.9,cloud computing - reading/writing - ambivert - weak,Below Average
+S0488,sana qureshi,cloud computing,auditory,strong,extrovert,3.6,cloud computing - auditory - extrovert - strong,High
+S0489,usman iftikhar,information technology,reading/writing,strong,extrovert,2.83,information technology - reading/writing - extrovert - strong,Below Average
+S0490,hamza malik,data science,kinesthetic,weak,ambivert,3.18,data science - kinesthetic - ambivert - weak,Above Average
+S0491,sana chaudhry,cloud computing,visual,strong,ambivert,2.86,cloud computing - visual - ambivert - strong,Below Average
+S0492,ali rana,artificial intelligence,kinesthetic,average,extrovert,2.7,artificial intelligence - kinesthetic - extrovert - average,Below Average
+S0493,muneeb sheikh,data science,visual,strong,ambivert,3.21,data science - visual - ambivert - strong,Above Average
+S0494,hiba malik,cloud computing,auditory,weak,ambivert,2.38,cloud computing - auditory - ambivert - weak,Low
+S0495,maryam rana,software engineering,kinesthetic,weak,extrovert,2.95,software engineering - kinesthetic - extrovert - weak,Below Average
+S0496,fatima ashraf,data science,auditory,strong,introvert,3.99,data science - auditory - introvert - strong,High
+S0497,bilal qureshi,software engineering,kinesthetic,strong,ambivert,3.07,software engineering - kinesthetic - ambivert - strong,Above Average
+S0498,jawad ashraf,information technology,visual,weak,extrovert,2.16,information technology - visual - extrovert - weak,Low
+S0499,fatima qureshi,cyber security,visual,strong,extrovert,2.99,cyber security - visual - extrovert - strong,Below Average
+S0500,ayesha ashraf,machine learning,kinesthetic,average,ambivert,3.12,machine learning - kinesthetic - ambivert - average,Above Average
